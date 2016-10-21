@@ -51,6 +51,7 @@ public class HistogramDisplay extends ApplicationFrame {
             dataSet.addValue(histogram.get(key), key, key);
         }
         
+        
         return dataSet;
         
         
